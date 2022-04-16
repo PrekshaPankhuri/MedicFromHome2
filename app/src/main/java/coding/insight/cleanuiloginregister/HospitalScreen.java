@@ -4,6 +4,7 @@ import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
@@ -32,9 +33,11 @@ public class HospitalScreen extends AppCompatActivity {
         DoctorInfo = findViewById(R.id.buttondoct);
         Logout=findViewById(R.id.buttonlogout);
 
+        SharedPreferences sh = getSharedPreferences("MedicPreference",MODE_PRIVATE);
 
-        HospitalID = getIntent().getStringExtra("ID");
-        HospitalName = getIntent().getStringExtra("Name");
+        HospitalID = sh.getString("HospitalID","fMsXldiMcwdSgizVNpDEy3c1xWH3");
+        HospitalName = sh.getString("HospitalName","RNT Hospital");
+
         book=findViewById(R.id.bookings);
         donors=findViewById(R.id.bookDonor);
 

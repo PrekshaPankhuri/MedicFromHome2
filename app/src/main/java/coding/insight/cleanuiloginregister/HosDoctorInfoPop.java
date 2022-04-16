@@ -27,16 +27,16 @@ public class HosDoctorInfoPop extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_hos_doctor_info_pop);
 
-        /* SharedPreferences sh = getSharedPreferences("MedicPreference", MODE_PRIVATE);
+        SharedPreferences sh = getSharedPreferences("MedicPreference", MODE_PRIVATE);
         HosName = sh.getString("HospitalName", "RNT Hospital");
 
 
         HospitalText = findViewById(R.id.HospitalName);
-        HospitalText.setText(HosName); */
+        HospitalText.setText(HosName);
 
 
 
-       /* recyclerview = (RecyclerView)findViewById(R.id.rv_doctor);
+       recyclerview = (RecyclerView)findViewById(R.id.rv_doctor);
         recyclerview.setLayoutManager(new LinearLayoutManager(this));
 
         addDoc = findViewById(R.id.floatingActionButton);
@@ -55,11 +55,10 @@ public class HosDoctorInfoPop extends AppCompatActivity {
                 Intent intent = new Intent(HosDoctorInfoPop.this, RegisterDoctor.class);
                 startActivity(intent);
             }
-        }); */
+        });
     }
-}
 
-  /*  @Override
+  @Override
     protected void onStart() {
         super.onStart();
         doctorAdapter.startListening();
@@ -77,4 +76,4 @@ public class HosDoctorInfoPop extends AppCompatActivity {
 
     }
 
-} */
+}

@@ -104,8 +104,6 @@ public class HospitalInfoPop extends AppCompatActivity {
     }
 
     public void onLoginClick(View View){
-        startActivity(new Intent(this,HospitalScreen.class));
-        overridePendingTransition(R.anim.slide_in_left,R.anim.stay);
-
+        onBackPressed();
     }
 }
