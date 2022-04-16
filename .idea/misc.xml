@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/91910/Downloads/Full Complete/Login-and-Register-UI-UX-Design-Android-Studio-XML-master/app/src/main/res/layout/activity_accept_appointments.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/91910/Downloads/Full Complete/Login-and-Register-UI-UX-Design-Android-Studio-XML-master/app/src/main/res/layout/activity_accept_donor.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/91910/Downloads/Full Complete/Login-and-Register-UI-UX-Design-Android-Studio-XML-master/app/src/main/res/layout/activity_accepting.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/91910/Downloads/Full Complete/Login-and-Register-UI-UX-Design-Android-Studio-XML-master/app/src/main/res/layout/activity_accepting_donor.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/91910/Downloads/Full Complete/Login-and-Register-UI-UX-Design-Android-Studio-XML-master/app/src/main/res/layout/activity_booked_appointments.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/91910/Downloads/Full Complete/Login-and-Register-UI-UX-Design-Android-Studio-XML-master/app/src/main/res/layout/activity_booked_donors.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/91910/Downloads/Full Complete/Login-and-Register-UI-UX-Design-Android-Studio-XML-master/app/src/main/res/layout/activity_donor_register.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/91910/Downloads/Full Complete/Login-and-Register-UI-UX-Design-Android-Studio-XML-master/app/src/main/res/layout/activity_donor_status.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/91910/Downloads/Full Complete/Login-and-Register-UI-UX-Design-Android-Studio-XML-master/app/src/main/res/layout/activity_form.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/91910/Downloads/Full Complete/Login-and-Register-UI-UX-Design-Android-Studio-XML-master/app/src/main/res/layout/activity_hos_doctor_info_pop.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/91910/Downloads/Full Complete/Login-and-Register-UI-UX-Design-Android-Studio-XML-master/app/src/main/res/layout/activity_hospital_appointment.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/91910/Downloads/Full Complete/Login-and-Register-UI-UX-Design-Android-Studio-XML-master/app/src/main/res/layout/activity_hospital_info_pop.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/91910/Downloads/Full Complete/Login-and-Register-UI-UX-Design-Android-Studio-XML-master/app/src/main/res/layout/activity_hospital_screen.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/91910/Downloads/Full Complete/Login-and-Register-UI-UX-Design-Android-Studio-XML-master/app/src/main/res/layout/activity_pending_appointments.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/91910/Downloads/Full Complete/Login-and-Register-UI-UX-Design-Android-Studio-XML-master/app/src/main/res/layout/activity_pending_donors.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/91910/Downloads/Full Complete/Login-and-Register-UI-UX-Design-Android-Studio-XML-master/app/src/main/res/layout/blooddonor_list.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/91910/Downloads/Full Complete/Login-and-Register-UI-UX-Design-Android-Studio-XML-master/app/src/main/res/layout/booking_list.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/91910/Downloads/Full Complete/Login-and-Register-UI-UX-Design-Android-Studio-XML-master/app/src/main/res/layout/donorstatus_list.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/91910/Downloads/Full Complete/Login-and-Register-UI-UX-Design-Android-Studio-XML-master/app/src/main/res/layout/final_donor_list.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/91910/Downloads/Full Complete/Login-and-Register-UI-UX-Design-Android-Studio-XML-master/app/src/main/res/layout/final_list.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/91910/Downloads/Full Complete/Login-and-Register-UI-UX-Design-Android-Studio-XML-master/app/src/main/res/layout/pendingappointments_list.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/91910/Downloads/Full Complete/Login-and-Register-UI-UX-Design-Android-Studio-XML-master/app/src/main/res/layout/pendingdonor_list.xml" value="0.23229166666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
